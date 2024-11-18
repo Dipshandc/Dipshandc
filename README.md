@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻Hi! I am a passionate backend developer and I'm currently working as an intern
+👨‍💻Hi! I am a passionate backend developer and I'm currently working as fullstack developer intern.
 
 
 ## 🔗 Connect with me:
