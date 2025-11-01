@@ -1,6 +1,5 @@
-# 💫 About Me:
-Hi! I am a passionate backend developer and I'm currently working as fullstack developer intern.
-
+# About Me:
+Hi, I’m someone who truly loves solving problems. Growing up, I was always fascinated by math, constantly asking why something works, why something doesn’t, and thinking that if one thing works, then another should too. Discovering computer science felt like coming home, a world full of logic, rules, and principles where every failure means there’s something new to understand. I’m passionate about writing and solving backend logic, exploring data structures and algorithms, and currently improving my skills in system design, DevOps, and AWS. Problem-solving is what I enjoy the most.
 
 ## 🔗 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_______dc.00) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/dipshandc) 
